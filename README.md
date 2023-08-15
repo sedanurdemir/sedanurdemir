@@ -4,7 +4,7 @@
   
 -👨‍🎓 Electrical Electronics Engineering graduate 🎓, Java Backend Developer 👩🏻‍💻, Supplier Quality Engineer
 
--📫 How to reach me: [Gmail](sedanur634@gmail.com)/ [LinkedIn](www.linkedin.com/in/sedanurdemir)
+-📫 How to reach me: [[Gmail](sedanur634@gmail.com)]| [LinkedIn](www.linkedin.com/in/sedanurdemir)
 
 -⚡ Fun fact: I love boxing🥊, playing volleyball 🏐 and dancing 💃🏻
 <!--
