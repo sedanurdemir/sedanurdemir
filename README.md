@@ -1,8 +1,11 @@
 ### Hi there 👋
 
 - 🌱 I’m currently developing backend services with Java.
+  
 -👨‍🎓 Electrical Electronics Engineering graduate 🎓, Java Backend Developer 👩🏻‍💻, Supplier Quality Engineer
+
 -📫 How to reach me: [Gmail](sedanur634@gmail.com)/ [LinkedIn](www.linkedin.com/in/sedanurdemir)
+
 -⚡ Fun fact: I love boxing🥊, playing volleyball 🏐 and dancing 💃🏻
 <!--
 **sedanurdemir/sedanurdemir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
